@@ -1,3 +1,9 @@
+# IMPORTANT NOTICE
+
+The web uploader was merged with the CLI uploader in
+https://github.com/arvados/bh20-seq-resource
+
+
 # Simple Web Uploader for Public SARS-CoV-2 Sequence Resource
 
 This project is a simple web server that lets you use [the Sequence Uploader](https://github.com/arvados/bh20-seq-resource#sequence-uploader) from a browser.
